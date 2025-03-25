@@ -22,7 +22,7 @@ function Home() {
           {/* Centered text block */}
           <div style={{ maxWidth: '600px', textAlign: 'center' }}>
             <h1 style={{ fontSize: '2rem', marginBottom: '1rem' }}>
-              Welcome to Luminus Imaging
+              Welcome to Lumius Imaging
             </h1>
             <p style={{ fontSize: '1rem' }}>
               Revolutionizing imaging with photoacoustic technology.
