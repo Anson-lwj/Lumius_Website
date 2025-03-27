@@ -1,5 +1,4 @@
 import React from 'react';
-import heroVideo from '../images/4_Waves_3D.mp4';
 
 function Home() {
   return (
@@ -27,7 +26,7 @@ function Home() {
 
         {/* Video positioned in the bottom-right corner */}
         <video
-          src={heroVideo}
+          src="/images/4_Waves_3D.mp4"
           autoPlay
           loop
           muted
@@ -39,7 +38,6 @@ function Home() {
             height: 'auto'
           }}
         >
-          Your browser does not support the video tag.
         </video>
       </section>
     </main>
