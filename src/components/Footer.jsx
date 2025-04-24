@@ -10,6 +10,7 @@ function Footer() {
       marginTop: '2rem'
     }}>
       <p>© {new Date().getFullYear()} Luminus Imaging. All rights reserved.</p>
+      <p>Email: contacts@lumius-imaging.com</p>
     </footer>
   );
 }

@@ -8,7 +8,7 @@ function Home() {
         style={{
           position: 'relative',
           minHeight: '600px',
-          padding: '2rem',
+          padding: '2rem 3rem 6rem 2rem',
           display: 'flex',
           alignItems: 'center',    // Vertical center
           justifyContent: 'center' // Horizontal center
@@ -20,7 +20,7 @@ function Home() {
             Welcome to Lumius Imaging
           </h1>
           <p style={{ fontSize: '1rem' }}>
-            Revolutionizing imaging with photoacoustic technology.
+            Revolutionizing vascular imaging with photoacoustic technology.
           </p>
         </div>
 
