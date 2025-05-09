@@ -9,7 +9,7 @@ function Footer() {
       padding: '1rem',
       marginTop: '2rem'
     }}>
-      <p>© {new Date().getFullYear()} Luminus Imaging. All rights reserved.</p>
+      <p>© {new Date().getFullYear()} Lumius Imaging. All rights reserved.</p>
       <p>Email: contact@lumius-imaging.com</p>
     </footer>
   );
